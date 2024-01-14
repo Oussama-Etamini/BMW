@@ -1,0 +1,59 @@
+{
+    "MenuList" : [
+        {
+          "id": "1",
+          "name": "serie1",
+          "image": "/assets/serie1.png",
+          "price": "15.999"
+        },
+        {
+          "id": "2",
+          "name": "serie2",
+          "image": "/assets/serie2.png",
+          "price": "256.999"
+        },
+        {
+          "id": "3",
+          "name": "serie3",
+          "image": "/assets/serie3.png",
+          "price": "11.999"
+        },
+        {
+          "id": "4",
+          "name": "serie4",
+          "image": "/assets/serie4.png",
+          "price": "17.999"
+        },
+        {
+          "id": "5",
+          "name": "serie5",
+          "image": "/assets/serie5.png",
+          "price": "44.999"
+        },
+        {
+          "id": "6",
+          "name": "serie6",
+          "image": "/assets/serie6.png",
+          "price": "197.999"
+        },
+        {
+          "id": "7",
+          "name": "serie7",
+          "image": "/assets/serie7.png",
+          "price": "369.999"
+        },
+        {
+          "id": "8",
+          "name": "serie8",
+          "image": "/assets/serie8.png",
+          "price": "129.999"
+        },
+        {
+          "id": "9",
+          "name": "serie9",
+          "image": "/assets/serie9.png",
+          "price": "88.999"
+        }
+        
+      ]
+}
