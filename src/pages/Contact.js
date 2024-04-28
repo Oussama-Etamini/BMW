@@ -5,10 +5,7 @@ import { useForm } from 'react-hook-form';
 import { yupResolver } from '@hookform/resolvers/yup';
 import * as yup from 'yup';
 
-
-
 function Contact() {
-
   const [subject , setSubject] = useState();
   const [email , setEmail] = useState();
   const [message , setMessage] = useState();

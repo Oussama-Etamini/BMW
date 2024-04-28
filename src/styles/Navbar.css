@@ -33,8 +33,8 @@
   text-decoration: none;
   margin: 20px;
 }
-.navbar a .active {
-  color: blue; /* Set the color for the active state */
+.navItem.active {
+  color: #3190BF; /* Set the color for the active state */
 }
 
 .navbar .rightSide button {
@@ -84,7 +84,7 @@
   border: 0;
   border-radius: 10px;
   color: var(--secondary-color);
-  padding: 10px 20px;
+  padding: 15px 15px;
   background: var(--primary-color);
   display: flex;
   transition: 0.2s background;
@@ -94,6 +94,8 @@
   position: absolute;
   top: 25%;
   right: 3%;
+  cursor: pointer;
+  font-size:14px;
 }
 
 .arrow-wrapper {
@@ -170,4 +172,5 @@
   .hiddenLinks {
     display: none;
   }
+  
 }

@@ -6,7 +6,6 @@ import '../styles/MenuItem.css';
 function MenuItem({ data }) {
 
   return (
-    
     <Link className='link' to={`/Menu/${data.id}`}>
       <div className='menuItem' >
         <div style={{ backgroundImage: `url(${data.image})` }}></div>

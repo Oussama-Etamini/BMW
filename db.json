@@ -4,55 +4,73 @@
           "id": "1",
           "name": "serie1",
           "image": "/assets/serie1.png",
-          "price": "15.999"
+          "price": "15.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         },
         {
           "id": "2",
           "name": "serie2",
           "image": "/assets/serie2.png",
-          "price": "256.999"
+          "price": "256.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         },
         {
           "id": "3",
           "name": "serie3",
           "image": "/assets/serie3.png",
-          "price": "11.999"
+          "price": "11.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         },
         {
           "id": "4",
           "name": "serie4",
           "image": "/assets/serie4.png",
-          "price": "17.999"
+          "price": "17.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         },
         {
           "id": "5",
           "name": "serie5",
           "image": "/assets/serie5.png",
-          "price": "44.999"
+          "price": "44.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         },
         {
           "id": "6",
           "name": "serie6",
           "image": "/assets/serie6.png",
-          "price": "197.999"
+          "price": "197.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         },
         {
           "id": "7",
           "name": "serie7",
           "image": "/assets/serie7.png",
-          "price": "369.999"
+          "price": "369.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         },
         {
           "id": "8",
           "name": "serie8",
           "image": "/assets/serie8.png",
-          "price": "129.999"
+          "price": "129.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         },
         {
           "id": "9",
           "name": "serie9",
           "image": "/assets/serie9.png",
-          "price": "88.999"
+          "price": "88.999",
+          "info1":"Light makes the BMW brand visible while simultaneously creating an intimate and very human connection. Over the decades, BMW's light design has continuously evolved, from the round pairs of headlights to the iconic LED sidelight rings, always aiming to intensify the relationship between vehicle and driver. Modernized, minimalistic, and yet highly emotional, the characteristic four-eyed face remains present in the BMW Vision Neue Klasse, and is repeated in a new interpretation in the rear lights.",
+          "info2":"The various light scenarios of the BMW Vision Neue Klasse are not only able to welcome different drivers individually and indicate that they have recognized whose profile the vehicle should be set to, but also display various information. As an example, one glance at the vehicle immediately shows whether it is currently charging."
         }
         
       ]
